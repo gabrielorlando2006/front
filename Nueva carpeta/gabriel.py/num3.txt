@@ -1,0 +1,13 @@
+3 - Preguntas teóricas
+
+1. ¿Qué es una variable en programación?
+Una variable es un espacio donde se guarda información para usarla después en el programa.
+
+2. ¿Para qué sirve input()?
+Sirve para pedir datos al usuario mediante el teclado.
+
+3. ¿Qué función cumple print()?
+Sirve para mostrar información en pantalla.
+
+4. ¿Qué es una condición (if)?
+Es una estructura que permite tomar decisiones dependiendo si algo es verdadero o falso.

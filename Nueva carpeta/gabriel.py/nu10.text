@@ -1,0 +1,25 @@
+10 - Preguntas teóricas
+
+1. ¿Qué es una lista en Python?
+Una lista es una colección de elementos guardados en una sola variable.
+
+2. ¿Qué es un diccionario?
+Es una estructura que guarda datos mediante claves y valores.
+
+3. ¿Cuál es la diferencia entre una lista y un diccionario?
+La lista usa posiciones y el diccionario usa claves.
+
+4. ¿Para qué sirve un for?
+Sirve para recorrer listas o repetir acciones.
+
+5. ¿Qué es JSON?
+JSON es un formato para guardar e intercambiar datos.
+
+¿Para qué sirve?
+Sirve para enviar información entre programas y páginas web.
+
+¿Dónde se usa?
+Se usa en APIs, aplicaciones web y bases de datos.
+
+¿Cómo se relaciona con listas y diccionarios de Python?
+Porque JSON tiene una estructura muy parecida a las listas y diccionarios de Python.
